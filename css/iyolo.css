@@ -1,0 +1,49 @@
+.contenu {
+    width: 550px;
+    text-align: center;
+    margin: 0px auto;
+   
+
+}
+div.details img {
+    float: left;
+    height: 180px;
+    border-radius: 50%;
+}
+
+.details {
+   
+    height: 180px;
+
+}
+
+
+.list-details{
+    
+    float: left;
+    list-style-type: none;
+    text-align: left;
+    margin-top: 0px;
+}
+
+.cv-section {
+    text-align: left;
+    padding-bottom: 20px;
+
+}
+
+h1,h2{
+    text-align: center;
+}
+
+p {
+    margin: 0px;
+}
+
+hr{
+    border-color: rgb(51, 177, 219);
+   border-width: 2px;
+}
+h1{
+    margin: 1px;
+}
